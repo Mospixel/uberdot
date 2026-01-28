@@ -5,6 +5,13 @@ Uberdot is the free and open source 3D creation suite and it is inspired from th
 It works as wip the entirety of coming to later : the 3D pipeline-modeling, rigging, animation, simulation and
 rendering.
 
+Cloning
+-------------
+The actual source code is contained one repository (Fujiyama renderer) referenced here as git submodules.
+
+Type as : git clone --recurse-submodules https://github.com/Mospixel/uberdot.git
+
+
 Info
 ------------
 So it is heavily in WIP as well ;).
