@@ -1,9 +1,11 @@
-Uberdot
+Uberdot (Updated info and changed to the path of my 3d project)
 -------------
 
-Uberdot is the free and open source 3D creation suite and it is inspired from the last Modo (version 16 though).
-It works as wip the entirety of coming to later : the 3D pipeline-modeling, rigging, animation, simulation and
-rendering.
+Uberdot is the free and open source 3D modeler and it is inspired from the last Modo (version 16 though).
+It works as wip as main to the 3D pipeline-modeling, not rigging, not animation, not simulation and however
+it will work to 3D rendering/Material shader. I cut it a lot because I work already my project to Blackdot as a 
+full 3D creation suite, sorry and it is better to have one for full 3d and Uberdot for modeler advanced... Than
+to two full 3d software, it will burn my work xD ! Hope for your understanding and thanks for your support too !
 
 Cloning
 -------------
@@ -23,28 +25,16 @@ Plan for adding/improving to Uberdot
 - [] UI from Modo (Wip)
 - [] Tools in 3D modeling (based on Modo) (Wip)
 - [] Sculpting 3D
-- [] Animation and rigging
 - [] Modern UVs mapping
-- [] Particles
-- [] CrowdFX
-- [] Hair system
 - [] Procedural modeling
-- [] Fluid simulation
 - [] Advanced 3D painting
-- [] New NPR shading
 - [] 3D Rendending : Fujiyama renderer and his improvement later
-- [] Cloth system
-- [] Soft and rigid body system
-- [] Support to Python scripting
-- [] Editor scripting
 
 
 Development
 -------------
 
 It will support to Vulkan.
-
-It will support to Python.
 
 It will be written in C++.
 
